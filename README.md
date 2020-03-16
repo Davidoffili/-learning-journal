@@ -1,37 +1,16 @@
-### David Palagashvili's Learning Journal
+``` ### David Palagashvili's Learning Journal
 
-# First Entry is about Markdown
+## First Entry 3/16/2020
 
-I can use the [editor on GitHub](https://github.com/Davidoffili/-learning-journal-repo/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
+To me, the growth mindset is present when a person has finally reached a point in their life when they're tired of stagnating mediocrity and ready to do something about it.
 
-Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-         
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A few things I focus on to stay in the growth mindset:
+- Nothing is easy until it is finished, it's only the beginning and I will get through this.
+- This skill is a hard skill to acquire, it's meant to be that way. We grow by challenging ourselves.
+- "I can't figure this out..." and the answer is "...yet!"
 
-```markdown
-Syntax highlighted code block
+# Fun Facts About Me
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Davidoffili/-learning-journal-repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Small Business Business Owner
+2. High Budget Game Enthusiast
+3. Immigrated through 2 countries to get to to the US.
