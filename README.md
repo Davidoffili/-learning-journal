@@ -1,12 +1,7 @@
 ```
+# David Palagashvili's Learning Journal
 
-# Heading 1
-## Heading 2
-### Heading 3
-
-David Palagashvili's Learning Journal
-
-First Entry 3/16/2020
+## First Entry 3/16/2020
 
 To me, the growth mindset is present when a person has finally reached a point in their life when they're tired of stagnating mediocrity and ready to do something about it.
 
