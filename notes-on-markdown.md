@@ -1,4 +1,4 @@
-# Learning Markdown
+# Markdown: The Language of GitHub
 
 ## Headings:
 
