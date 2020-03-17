@@ -1,4 +1,3 @@
-```
 # David Palagashvili's Learning Journal Repo
 
 ## About Me
