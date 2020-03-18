@@ -1,18 +1,32 @@
-# Notes on Websites in HTML
+# Notes on HTML and CSS
 
-It looks at who might be visiting your site and how to ensure the pages feature the information those visitors need. It also
-covers some key aspects of design theory to help you create
-professional looking sites. In this chapter, we will look at:
-● How to understand the audience your site may attract and
-what information they will expect to find on it
-● How to organize information so that visitors can find what
-they are looking for
-● Design theory for presenting information in a way that
-helps visitors achieve their goals
-● Design tips to help you create more attractive and
-professional sites
+### Chapter 1
 
-Every website should be designed for the
-target audience—not just for yourself or the
-site owner. It is therefore very important to
-understand who your target audience is.
+-HTML pages are basically crucial text docs that form the framework of a website or program.
+-HTML uses characters that sit inside angled brackets <> called tags. They're used to ascribe special meaning to their target. Tags are also referred to as elements.
+-Opening tags can carry attributes, which explain the content of that element.
+-Attributes require a name and a value. To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+
+### Chapter 17
+-The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
+-The new elements provide clearer code (compared with using multiple <div> elements).
+-Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+
+### Chapter 8
+-DOCTYPES tell browsers which version of HTML you are using.
+-You can add comments to your code between the markers
+-The id and class attributes allow you to identify particular elements.
+-The <div> and elements allow you to group block-level and inline elements together.
+-cut windows into your web pages through which other pages can be displayed.
+-The tag allows you to supply all kinds of information about your web page.
+-Escape characters are used to include special characters in your pages such as <, >, and ©.
+
+### Chapter 18
+-It’s important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+-Site maps allow you to plan the structure of a site. Wireframes allow you to organize the information that will need to go on each page
+-Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+-You can differentiate between pieces of information using size, color, and style.
+-You can use grouping and similarity to help simplify the information you present
+
+After we cloned our gits, we proceeded to experiment with these findings in VS Code. I worked with Gharret.
