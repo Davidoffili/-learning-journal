@@ -1,0 +1,13 @@
+# Programming With Java Script
+
+## Notes on Reading 07
+
+### HTML refresher 
+- elements consist of open tag <p ,the content, and a close tag /p>
+- opening tags can carry attributes (i.e. class) which tell us more about that element.
+- Attributes have a name and value, usually given in quotation marks ""
+
+### CSS Refresher
+- basically these are rules to indicate how elements display in the browser
+- each rule has a selector. for exmaple ".fruit" selects the class defined as fruit in the orginal element.
+- 
