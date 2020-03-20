@@ -6,8 +6,23 @@
 - elements consist of open tag <p ,the content, and a close tag /p>
 - opening tags can carry attributes (i.e. class) which tell us more about that element.
 - Attributes have a name and value, usually given in quotation marks ""
+- dicates the outline or core layout of your page. This is the skeleton of your webpage.
 
 ### CSS Refresher
 - basically these are rules to indicate how elements display in the browser
 - each rule has a selector. for exmaple ".fruit" selects the class defined as fruit in the orginal element.
-- 
+- CSS dictates the the position, dimensions, and aesthetics (referred to as "styles") of your web page.
+- This is the skin, hair, nails, eyes of your webpage.
+
+### Javascript
+- Java Script allows us to access content, modify content, set program rules to alter the content of page.
+- encompasses many traditional rules of programming which make it a powerful, widely-applicaple programming language.
+- makes web pages feel more interactive by responding to user input like passwords, clicking buttons, grand totals in shopping carts etc.
+
+### 3/19/2020 Learning
+-Functions let you group a bunch of statements together to do something specific. 
+The coolest part about them is they make code resuable which allows for more efficent use of time when coding!
+The best devs are the ones that complete most effective programs or websites with concise code. High Output, Low ManHours.
+-Objects group a set of variables and functions together to create a model of something more familiar in the real world.
+-We used the hotel example in class: it had 5 properties and one method. The object is notated by the curly braces. The properties are just variables
+created and defined within the curly braces. The method is basically a function with the object. 
