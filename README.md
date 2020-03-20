@@ -1,10 +1,14 @@
 # David Palagashvili's Learning Journal Repo
 
-## About Me
+### About Me
 
 Born in Israel and began a long journey, moved to Canada, then the US in 2005. So by the age of 12, I had lived on two continents, in 5 cities, across 3 countries, atteneded 7 different schools and spoke 3 languages.
 
 Today, I'm just a college drop-out, turned self-made business owner, aspiring to learn javascript and then join the ranks of the software wizards of today's world!
+
+# Table of Contents
+[1. Markdown Notes](notes-on-markdown.md)
+[2. Markdown Notes](notes-on-markdown.md)
 
 ### The Growth Mindset
 
